@@ -161,10 +161,8 @@ Generated 4-panel visualization:
 * Drop-off rate chart
 * Revenue per user
 
-Saved as: **ab_test_analysis.png**
+<img width="1389" height="989" alt="Image" src="https://github.com/user-attachments/assets/e30bc87e-7db5-4240-bcb9-92b5ed1b62e4" />
 
-*(See image below)*
-![Visualization](attachment\:ab_test_analysis.png)
 
 #
 
