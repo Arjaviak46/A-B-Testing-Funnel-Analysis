@@ -413,9 +413,11 @@ GROUP BY ex.variant;
 #
 
 # **Python Code (Complete Notebook)**  
+Files to be uploaded in Colab Notebook: 
+- [ctr_analysis.csv](https://github.com/user-attachments/files/23827885/ctr_analysis.csv)
+- [funnel_analysis.csv](https://github.com/user-attachments/files/23827884/funnel_analysis.csv)
+- [revenue_analysis.csv](https://github.com/user-attachments/files/23827883/revenue_analysis.csv)
 
-Source file: *AB_Test_Statistical_Analysis.ipynb*
-Files to be uploaded: 
 <details>
 <summary><b>Click to expand Python code</b></summary>
 
